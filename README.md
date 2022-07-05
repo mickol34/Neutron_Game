@@ -1,4 +1,6 @@
 # Neutron_Game
 Michał Kolankiewicz, 2020
-AIR WEITI PW, 20Z
+
+Semestr 20L, Automatyka i Robotyka, WEITI PW
+
 Projekt stworzony w ramach zaliczenia z przedmiotu Podstawy Informatyki i Programowania (PIPR) na semestrze pierwszym studiów
